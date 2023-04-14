@@ -132,6 +132,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: Text(yanitlar[yanitIndex],
                         style: TextStyle(fontSize: 16),
                         textAlign: TextAlign.center))),
+            Text(("Github değişiklik kontrolü için eklendi "))
           ],
         ),
       ),
